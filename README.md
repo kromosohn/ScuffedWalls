@@ -17,7 +17,7 @@ This tool does not do the same thing as [`Beatwalls`](https://github.com/spookyG
  - ModelToWall Specifics -> [`here`](Blender%20Project.md)
  - TextToWall Specifics -> [`here`](TextToWall.md)
  - Example Scripts And Effects -> [`here`](Example%20Functions.md)
-
+ 
  Rizthesnuggie's full intro documentation can be found [`here`](https://drive.google.com/drive/folders/1aAUuv8Ycmf2LdSRvKYhfThY2tQhZxFYS?usp=sharing)
  
  
