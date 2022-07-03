@@ -25,7 +25,7 @@ This tool does not do the same thing as [`Beatwalls`](https://github.com/spookyG
 
 If everything doesnt work and your in a country that uses , as the decimal symbol, [`changing regional settings`](Images/regional.png) is a common fix.
 
-## Problems
+## Problems 
 
 The documentation is plentiful, yet not perfect. If you have questions feel free to DM us through Discord.
  - DM `thelightdesigner#0832` for questions AND bugs
