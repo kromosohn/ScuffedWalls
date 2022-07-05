@@ -31,7 +31,7 @@ The documentation is plentiful, yet not perfect. If you have questions feel free
  - DM `thelightdesigner#0832` for questions AND bugs
  - DM `iswimfly#0556` for questions
  - Join the Noodle Extensions Discord: https://discord.gg/d3JSR4kBD6
-
+ 
 Also you can create Issues through github if you want.
 
 ## Example Maps
