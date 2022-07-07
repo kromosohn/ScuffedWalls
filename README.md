@@ -33,7 +33,7 @@ The documentation is plentiful, yet not perfect. If you have questions feel free
  - Join the Noodle Extensions Discord: https://discord.gg/d3JSR4kBD6
  
 Also you can create Issues through github if you want.
-
+ 
 ## Example Maps
 
  - [`Phototropic`](https://www.youtube.com/watch?v=Bp1w2SPBRHE)
