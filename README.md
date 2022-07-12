@@ -36,7 +36,7 @@ Also you can create Issues through github if you want.
  
 ## Example Maps
 
- - [`Phototropic`](https://www.youtube.com/watch?v=Bp1w2SPBRHE)
+ - [`Phototropic`](https://www.youtube.com/watch?v=Bp1w2SPBRHE) 
  - [`Overthinker`](https://www.youtube.com/watch?v=PYvPg2J73Jw)
  - [`Centipede`](https://www.youtube.com/watch?v=rkcK2gJZTfs&t=82s)
  - [`Shelter`](https://www.youtube.com/watch?v=a4zSCDYRwAQ)
