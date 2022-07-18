@@ -8,7 +8,7 @@ This tool does not do the same thing as [`Beatwalls`](https://github.com/spookyG
   - Open the program
   - Follow the prompts until a `.sw` file is generated
   - Put your code in the generated `_ScuffedWalls.sw` file. 
-  - Save the `_ScuffedWalls.sw` file to refresh the program.
+  - Save the `_ScuffedWalls.sw` file to refresh the program. 
 
 ## Documentation
 
